@@ -1,7 +1,8 @@
 
 
 
-<img width="400" height="400" alt="s-l400" src="https://github.com/user-attachments/assets/2e8baaa5-375d-41ea-bf3e-09487f3847e0" /><img width="388" height="343" alt="Texas Instruments_TFP401AIPZPR-1_2736" src="https://github.com/user-attachments/assets/b6b3d159-5762-420d-9275-99c52a666eb8" />
+<img width="400" height="400" alt="s-l400" src="https://github.com/user-attachments/assets/2e8baaa5-375d-41ea-bf3e-09487f3847e0" /><img width="350" height="343" alt="Texas Instruments_TFP401AIPZPR-1_2736" src="https://github.com/user-attachments/assets/ac6352ef-626d-4e6e-af24-69a9f0672734" />
+
 
 <img width="1500" height="1500" alt="612SBk9E+4L" src="https://github.com/user-attachments/assets/f38af52c-28d6-4144-b09b-6ff7446b0c03" />
 
@@ -11,27 +12,42 @@
 
 -----------
 
-فایل شماتیک  و پی سی بی بهمراه فایل تنظیمات 
 
-🟣قابل توسعه برای همگان
-🟣 انتشار رایگان تمامی فایل‌های طراحی و تولید
+
+🟣 انتشار رایگان فایل‌های شماتیک (Schematic) و PCB
+🟣 ارائه فایل‌های اصلی پروژه در Altium Designer
+🟣 دسترسی به فایل‌های تولید برد (Gerber) و مستندات فنی
+🟣 طراحی کاملاً متن‌باز و قابل توسعه برای همگان
 
 🟣 ارائه کامل فایل‌های EDID و فایل‌های باینری آماده
 🟣 آموزش برنامه‌ریزی و شخصی‌سازی EDID با آردوینو
+🟣 مستندات فنی جهت راه‌اندازی و توسعه پروژه
 
 مشخصات فنی
 
 🟣 مبتنی بر تراشه قدرتمند TFP401 از شرکت Texas Instruments
-🟣 طراحی فشرده، کاربردی و قابل تولید برای همگان
+🟣 مبدل HDMI/DVI به RGB Parallel برای نمایشگرهای TFT
+🟣 طراحی فشرده، کاربردی و قابل تولید
+🟣 مناسب برای پروژه‌های آموزشی، تحقیقاتی و صنعتی
 
 کاربردها
 
-🟣 مناسب برای مهندسان، دانشجویان و علاقه‌مندان به سیستم‌های امبدد و تصویر 
+🟣 مناسب برای مهندسان، دانشجویان و علاقه‌مندان به سیستم‌های امبدد و پردازش تصویر
+🟣 ایده‌آل برای توسعه نمایشگرهای TFT مبتنی بر HDMI
+🟣 قابل استفاده در پروژه‌های صنعتی، آزمایشگاهی و آموزشی
 
 توسعه‌دهنده
 
-🟣 توسعه‌یافته توسط شرکت پرشین الکترونیک پویا
+🟣 طراحی و توسعه توسط شرکت پرشین الکترونیک پویا (Persian Electronic Poya)
+🟣 پروژه‌ای متن‌باز با هدف گسترش دانش سخت‌افزار و اشتراک‌گذاری تجربیات مهندسی
 
+🟣 Open Source Hardware
+🟣 Altium Designer Project Files Included
+🟣 Free Schematic & PCB Files
+🟣 Free EDID Resources
+🟣 Powered by Texas Instruments TFP401
+
+🚀 سخت‌افزار آزاد • دانش آزاد • آینده‌ای باز 🚀
 
 -----------
 
